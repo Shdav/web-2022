@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b381de1e-6a9b-428a-a5b1-2b550a3cee85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lab_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WineShop/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WineShop/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WineShop/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WineShop/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WineShop/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WineShop/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WineShop/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WineShop/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_3/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_3/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_3/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab_3/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="b381de1e-6a9b-428a-a5b1-2b550a3cee85" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666771261205</updated>
       <workItem from="1666771279205" duration="2244000" />
-      <workItem from="1666773535356" duration="6320000" />
+      <workItem from="1666773535356" duration="6630000" />
     </task>
     <servers />
   </component>
