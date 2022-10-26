@@ -14,7 +14,7 @@ class Category(models.Model):
 
     class Meta:
         managed = True
-        db_table = 'category'
+        db_table = 'categories'
 
 
 class Wine(models.Model):
